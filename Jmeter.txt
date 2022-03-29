@@ -1,0 +1,29 @@
+J meter Concepts:
+-----------------------
+
+Elements of a J-meter
+
+Thread Group
+Samplers
+Listeners
+COnfiguration
+
+
+Thread Group is a combination of Threads
+Each thread is representing a user
+Each user can sent a request
+Every thread is simulates a user request
+
+
+So what kind of request can Thread send
+
+Which will be comnes under Samplers
+
+Samplers
+--------------
+Those requests can be FTP request, http request,JDBC request
+etc
+
+Listeners
+------------
+It shows the result of the test execution

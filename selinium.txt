@@ -1,0 +1,46 @@
+chrome_options,screenshots
+
+----------------
+Pytest,unittest
+------------
+
+We can not be able to generate
+the reports
+
+Running the testcases
+parallel execution
+skipping the testcases
+
+what is a framework
+------------------
+framework is somethig like
+
+which is used as a foundation
+set of instructions
+pytest
+------------
+fixtures
+skip
+report generation
+parallel execution
+grouping the testcases
+data parameterization
+setup and cleanup
+--------------------
+test data -- I need to read from a excel
+elements -- class file read
+common functionality -- login -- lib
+screenshots -- seperate folder
+logs -- logs folder
+testcases--  package
+reports -- reports folder
+setup and cleanup -- class file
+
+Hybrid framework -- KEy driven + Data driven
+Key driven -- Robotic framework
+BDD,cucumber
+TDD
+Regression
+
+PyAts
+

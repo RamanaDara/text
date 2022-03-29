@@ -1,0 +1,73 @@
+Polymorphism
+--------------
+
+
+
+-------
+poly --- many
+
+morphs - forms
+a = 3
+b = 4
+
+a + b = 7
+
+a = "Shadak"
+b = " Python"
+
+a + b = Sadhak Python
+
+
+len()
+
+overloading
+overriding
+
+operator overloading --- possible in python
+Constructor overloading
+Method overloading
+
+1 + 2
+
+Python virtual machine
+
+__add__
+
+
+Overriding
+-------------
+
+-----------------------------
+Leave management application
+-------------------------------
+number of leaves = 10
+employee - Python,10,id
+
+3
+employee name 
+employee id
+manager 
+supervisor
+
+employee_data
+
+do you want to perform - Y
+adding_employee-data
+removing_employee_data
+applying_for_leave
+approving_a_leave
+adding_manager_data
+
+
+
+
+
+
+
+
+
+
+
+
+
+

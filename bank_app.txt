@@ -1,0 +1,49 @@
+class BankFunctionality:
+    """This class is going to do the functionalities related to the Bank
+    """
+    flag = True
+     
+    def __init__(self):
+        self.balance = 1000
+    while flag:
+        operation = input('''What kind of operation you want to perform...?\nD for Deposit\nW for withdraw\nB for balance\nQ for quit
+                              \nPlease select the option:''')
+        if operation.lower() == 'w':
+            def withdraw(self):
+        
+                withdraw_amount = int(input("Please enter how much you wanna withdraw?:"))
+                if self.balance >= withdraw_amount:
+                    self.balance -= withdraw_amount
+                    print(f"We have successfully withdraw the amount of {withdraw_amount}")
+                else:
+                    print(f"Insufficient balance and you have only {self.balance}")
+        elif operation.lower() == 'b':
+            def deposit(self):
+        
+                deposit_amount = int(input("Please enter the amount which you wanna deposit?:"))
+                self.balance += deposit_amount
+                print("Hi! the money has been deposited successfully.....")
+        elif operation.lower() == 'd':
+            def check_balance(self):
+        
+                print(f'Your balance is {self.balance}')
+
+b = BankFunctionality()
+
+class UseBank:
+    b = BankFunctionality()
+    flag = True
+    while flag:
+        operation = input('''What kind of operation you want to perform...?\nD for Deposit\nW for withdraw\nB for balance\nQ for quit
+                          \nPlease select the option:''')
+        if operation.lower() == 'w':
+            b.withdraw()
+        elif operation.lower() == 'b':
+            b.check_balance()
+        elif operation.lower() == 'd':
+            b.deposit()
+        elif operation.lower() == 'q':
+            print("Thanks for using Python Bank.....")
+            flag = False
+        else:
+            print("Please select the proper input.......")
