@@ -1,0 +1,59 @@
+python
+
+1. what is the difference between tuple and list
+2. what are the data types in python
+3. difference between set and dictionary
+4. diff b/w pop and remove
+5. in dictionary what are the allowed keys and values
+6. what is the class ?
+7. diff b/w break and continue
+8. diff b/w yield and continue
+9. what is the generator in decarator
+10.list comprehesions
+11. built in functions [Map,lambda,reduce,filter]
+12. diff b/w sort and sorted
+13. what is inheritance
+14. oops concepts
+15. what is polymorphism
+16. what is abstraction and encapsulation
+17. what are the modules you have utilised - selenium, pyexcel, pytest
+18. diff b/w method overloading and method overriding
+19. file operations
+20. how do you define empty set
+21. what is diff b/w function and method
+22. what type of variables in class
+23. what is the self keyword
+24. what is the constructor
+25. what is diff b/w shallo copy and deep copy
+26. How do you copy object
+27. what is the protected and private methods
+28. what is the meaning of super method
+
+selenium
+
+1. how do you find the element
+2. what are the locators
+3. diff b/w findelement and findelements
+4. how many xpath
+5. how do you deal with dropdowns
+6. how do you deal with captcha
+7. how do you bypass the certificate in webdriver
+8. how do you deal with the windows pop up
+9. how do you deal with the alrets
+10. how do you deal with multiple windows
+11. how do you deal with frames
+12. how do you read the data in webtables
+13. why we use frames
+14. webdriver returns what - multi dimenstional array will return
+15. what is pickling and unpickling
+16. what is diff b/w quit and close
+17. diff b/w implicitly wait and explicitly wait
+18. where we can use getattribute
+19. how do you select the radio buttons
+20. how do you deal with the webtables when we have dynamic webtables
+21. selenium architecture
+22. why we have utilized pytest
+23. what is the fixture in pytest
+24. what are the features in pytest
+25. 
+ 
